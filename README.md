@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android and Web applications**
 
-- 💬 Ask me about **Experienced iOS and Flutter Developer | Innovating Mobile Solutions for Seamless Experiences**
+- 💬 **Experienced iOS and Flutter Developer | Innovating Mobile Solutions for Seamless Experiences**
 
 - 📫 How to reach me **gowthamselvaraj.info@gmail.com**
 
